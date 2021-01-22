@@ -1,0 +1,8 @@
+<svg width="800" height="600">
+ <g (click)="demo($event)">
+  <rect #desk id="1" height="297" width="293" y="3.45313" x="3.5" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect #desk id="2" height="297" width="293" y="3.45313" x="503.5" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect #desk id="3" height="297" width="293" y="298.53616" x="3.5" stroke-width="1.5" stroke="#000" fill="#fff" />
+  <rect #desk id="4" height="297" width="293" y="298.53616" x="503.5" stroke-width="1.5" stroke="#000" fill="#fff"/>
+ </g>
+</svg>
